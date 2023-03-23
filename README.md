@@ -4,5 +4,6 @@ This is a simple project written using Java. The game is unfinished. At the mome
 # Gameplay
 
 
-https://user-images.githubusercontent.com/101141624/227219327-7dffe024-8ae0-4b41-8544-4b9fbac4766a.mp4
+![image](https://user-images.githubusercontent.com/101141624/227220274-cf9c6579-dfda-49dd-beb5-349eb98598cb.png)
+
 
